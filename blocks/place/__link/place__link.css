@@ -1,13 +1,16 @@
 .place__link {
-  color: #fff;
-  font-style:  normal;
-  font-weight: 400;
   font-size: 18px;
-  line-height: 22px;
-  transition: opacity .4s linear;
-  opacity: 1;
+  line-height: 1.22;
+  font-weight: 400;
+  color: #FFFFFF;
+  transition: opacity 0.5s linear;
 }
 
 .place__link:hover {
-  opacity: .5;
+  opacity: 80%;
+}
+@media screen and (max-width: 568px) {
+  .place__link {
+    margin: 0 16px 0 12px;
+  }
 }
