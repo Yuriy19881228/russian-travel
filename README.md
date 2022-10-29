@@ -5,7 +5,7 @@
 
 ---
 
-## Используемые технологии.
+ Используемые технологии.
 
 * Создание разметки сайта с HTML ()
 * Работа со стилями CSS
@@ -13,4 +13,5 @@
 * CSS Flexbox
 * CSS Grid Layout
 ---
-
+ 
+ Ссылка на проект: https://yuriy19881228.github.io/russian-travel/index.html
