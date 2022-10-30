@@ -9,7 +9,7 @@
 .place__link:hover {
   opacity: 80%;
 }
-@media screen and (max-width: 568px) {
+@media screen and (max-width: 767px) {
   .place__link {
     margin: 0 16px 0 12px;
   }

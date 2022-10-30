@@ -4,20 +4,21 @@
     margin-top: 56px;
   }
   
-  @media screen and (max-width: 1140px) {
+  @media screen and (max-width: 1279px) {
     .lead {
       max-width: 928px;
-      margin-top: 56px;
+      margin-top: 48px;
     }
   }
   
-  @media screen and (max-width: 984px) {
+  @media screen and (max-width: 1023px) {
     .lead {
       max-width: 768px;
+      
     }
   }
   
-  @media screen and (max-width: 568px) {
+  @media screen and (max-width: 767px) {
     .lead {
       max-width: 320px;
       
